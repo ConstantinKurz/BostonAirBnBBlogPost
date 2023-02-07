@@ -1,2 +1,2 @@
-# BostonAirBnBBlogPost
+# NYBnBBlogPost
 A blog post for udacity data science course
