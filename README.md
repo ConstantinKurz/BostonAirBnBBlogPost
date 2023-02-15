@@ -15,7 +15,7 @@ pip install -U matplotlib@3.3.2 pandas@1.1.3 seaborn@0.11.0 scikit-learn@0.23.2 
 ## Motivation
 
 The Notebook and corresponding blog post have been created in context of the udacity datascience nanodegree. 
-The task was to get some insight from an arbitrary dataset ( I choosed the 2019 [AirBNB NY Dataset from Kaggle](https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data) ).
+The task was to get some insight from an arbitrary dataset ( I chosed the 2019 [AirBNB NY Dataset from Kaggle](https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data) ) using cross-industry standard process for data mining (CRISP-DM)
 
 ## Files
 Structure should look like the following:
